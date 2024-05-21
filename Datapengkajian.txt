@@ -1,0 +1,24 @@
+
+=======================================================
+                      DATA PASIEN
+=======================================================
+ Masukkan Tanggal Periksa : 0
+ Masukkan Bulan Periksa   : 0
+ Masukkan Tahun Periksa   : 0
+ Masukkan Nama Pasien     : viki
+ Masukkan Alamat Pasien   : 
+ Masukkan No.Hp Pasien    : 12312
+ Masukkan Umur Pasien     : 19
+ Masukkan Jenis kelamin   : laki-laki
+=======================================================
+
+=======================================================
+                      DATA PENGKAJIAN     
+=======================================================
+ 1. Tekanan darah MmHg : 
+ 2. Berat Badan        : 
+ 3. Tinggi Badan       : 
+ 4. Nadi               : 
+ 5. Suhu Badan        : 
+=======================================================
+

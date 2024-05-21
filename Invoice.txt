@@ -1,0 +1,23 @@
+
+=======================================================
+ STRUK PEMBAYARAN RUMAH SAKIT     
+=======================================================
+Jln. Sorosutan No.6B, Umbulharjo, Kota Yogyakarta
+ Tanggal Periksa   : 0-0-0
+ Nama          : viki
+ Alamat        : 
+ No.Hp         : 12312
+ Umur          : 19
+ Jenis Kelamin : laki-laki
+-------------------------------------------------------
+ Jenis Sakit - 
+ Harga                                       = 0
+ Jumlah                                      = 0
+ Rawat Inap                                  = 0 hari
+-------------------------------------------------------
+ Harga Total                                 = 0
+ Bayar                                       = 222222
+ Kembali                                     = 147222
+=======================================================
+
+   Terima kasih Semoga Lekas Sembuh
